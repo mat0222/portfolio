@@ -11,7 +11,7 @@ const Languages = () => {
     { name: 'HTML/CSS', level: 95, color: 'from-orange-400 to-orange-600' },
     { name: 'SQL', level: 82, color: 'from-purple-400 to-purple-600' },
     { name: 'Lazarus', level: 80, color: 'from-red-400 to-red-600' },
-    { name: 'Visual Code', level: 95, color: 'from-purple-400 to-purple-600' },
+    { name: 'Visual Code', level: 95, color: 'from-cyan-400 to-cyan-600' },
     { name: 'Xampp', level: 85, color: 'from-green-400 to-green-600' }
   ];
 
