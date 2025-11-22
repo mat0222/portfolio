@@ -1,12 +1,12 @@
 import React from 'react';
-import { Github, Linkedin, Youtube, Mail } from 'lucide-react';
+import { Github, Linkedin, Youtube, Mail, Instagram } from 'lucide-react';
 
 const Footer = () => {
   const socialLinks = [
     { icon: <Github size={20} />, label: 'GitHub', href: 'https://github.com/mat0222' },
     { icon: <Linkedin size={20} />, label: 'LinkedIn', href: 'https://www.linkedin.com/in/mateo-liendo02' },
     { icon: <Youtube size={20} />, label: 'YouTube', href: 'https://www.youtube.com/@MateoLiendo02' },
-    { icon: <Mail size={20} />, label: 'Email', href: 'mailto:mateoliendo022@gmail.com' }
+    { icon: <Instagram size={20} />, label: 'Instagram', href: 'https://www.instagram.com/mateo_programaciones' }
   ];
 
   return (
