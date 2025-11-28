@@ -32,13 +32,8 @@ const CV = () => {
         company: 'FobiBike.',
         period: '2025 - Presente',
         description: 'Desarrollo de aplicacion web sobre la administración y gestión de la bicicleteria FobiBike.'
-      },
-      {
-        title: 'Desarrollo Web Publicitaria',
-        company: 'Dulcinea',
-        period: '2025 - Presente',
-				description: 'Desarrollo de aplicacion web sobre la publicidad y marketing de Dulcinea.'
       }
+
     ],
     education: [
       {

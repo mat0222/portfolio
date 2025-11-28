@@ -53,13 +53,11 @@ const About = () => {
               className="space-y-4"
             >
               <p className="text-lg text-gray-300 leading-relaxed">
-                Soy un desarrollador web junior con una fuerte pasión por el front end y por crear interfaces claras, modernas y orientadas a una gran experiencia de usuario. Me entusiasma aprender nuevas herramientas y enfoques que me permitan mejorar la calidad de mi código y de mis proyectos.
+                Soy Mateo Liendo, desarrollador Front-End especializado en React. Me enfoco en crear interfaces funcionales, claras y eficientes, aplicando buenas prácticas y una estructura de código escalable.
+He trabajado en proyectos como gestores de turnos y dashboards administrativos, siempre priorizando la usabilidad y el rendimiento.
               </p>
               <p className="text-lg text-gray-300 leading-relaxed">
-                Estoy en constante crecimiento profesional: realizo cursos, practico nuevas tecnologías y participo en proyectos personales para seguir ampliando mis conocimientos. Disfruto escuchar ideas, recibir feedback y trabajar en equipo para encontrar soluciones más completas.
-              </p>
-              <p className="text-lg text-gray-300 leading-relaxed">
-                Mi objetivo es seguir formándome, ganar experiencia real en el desarrollo web y aportar valor en cada proyecto mientras continúo construyendo una carrera sólida en el mundo del front end.
+                Actualmente busco oportunidades como Front-End / React Developer para seguir creciendo profesionalmente y aportar valor en equipos de desarrollo.
               </p>
             </motion.div>
           </div>
