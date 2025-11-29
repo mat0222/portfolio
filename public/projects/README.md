@@ -45,3 +45,4 @@ public/
 ## Nota:
 Las imágenes se mostrarán en un carrusel con navegación por flechas y puntos indicadores.
 
+

@@ -19,7 +19,7 @@ function App() {
   return (
     <>
       <Helmet>
-        <title>Portfolio - Desarrollador Web Profesional</title>
+        <title>Mateo Liendo - Portfolio</title>
         <meta name="description" content="Portfolio profesional de desarrollo web con experiencia en múltiples lenguajes de programación y proyectos innovadores." />
       </Helmet>
 
